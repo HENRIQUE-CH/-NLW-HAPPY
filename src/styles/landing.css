@@ -10,14 +10,14 @@
 #page-landing .content-wrapper {
     position: relative;
     width: 100%;
-    max-width: 950px;
+    max-width: 1100px;
     height: 100%;
-    max-height: 500px;
+    max-height: 600px;
     display: flex;
     align-items: flex-start;
     flex-direction: column;
     justify-content: space-between;
-    background: url(../../images/lading.svg) no-repeat 80% center;
+    background: url(../images/lading.svg) no-repeat 80% center;
 }
 
 #page-landing .content-wrapper main {
@@ -26,9 +26,9 @@
 
 #page-landing .content-wrapper main h1 {
     max-width: 350px;
-    font-size: 70px;
+    font-size: 80px;
     font-weight: 900;
-    line-height: 60px;
+    line-height: 70px;
 }
 
 #page-landing .content-wrapper main p {
